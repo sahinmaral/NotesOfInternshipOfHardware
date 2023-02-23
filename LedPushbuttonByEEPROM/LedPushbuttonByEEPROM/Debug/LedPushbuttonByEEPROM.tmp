@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\Debug\LedPushbuttonByEEPROM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LedPushbuttonByEEPROM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LedPushbuttonByEEPROM.map</FILE>
+  <FILE>LedPushbuttonByEEPROM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>4</LINE></start>
+  <EEPROM_WRITE><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>75</LINE></EEPROM_WRITE>
+  <EEPROM_READ><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>87</LINE></EEPROM_READ>
+  <loop><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>13</LINE></loop>
+  <nopressbutton1><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>32</LINE></nopressbutton1>
+  <delay><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>62</LINE></delay>
+  <is_even><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>54</LINE></is_even>
+  <nopressbutton2><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>51</LINE></nopressbutton2>
+  <L1><FILE>C:\Users\sahin\OneDrive\Desktop\LedPushbuttonByEEPROM\LedPushbuttonByEEPROM\main.asm</FILE><LINE>67</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
